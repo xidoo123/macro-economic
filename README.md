@@ -1,6 +1,6 @@
 # 宏观经济学
 
-## Introduction
+## 1. Introduction
 
 * 10 principles of Economics
 
@@ -35,7 +35,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
 * microeconomics/macroeconomics
 
-## National Accounting
+## 2. National Accounting
 
 * economy's income/expenditure
 
@@ -93,7 +93,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * real interest rate：考虑了通货膨胀对货币的影响，因此它是扣除通货膨胀后的实际利率。
 
-## Production and growth
+## 3. Production and growth
 
 * production 生产: A country’s standard of living depends on its ability to produce goods and services
 
@@ -142,7 +142,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     ![Alt text](image-3.png)
 
-## unemployment and the labour market
+## 4. unemployment and the labour market
 
 * (long-run)natural rate of/(short-run)cyclical unemployment
 
@@ -181,7 +181,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
     * The Theory of Efficiency Wages：付多于平衡点的钱，鼓励生产。但钱付得多了，工作岗位就少了，那些找不到工作的人也多了。
 
 
-## Saving, investment and the financial system
+## 5. Saving, investment and the financial system
 
 * Y – C – G = I = S
 
@@ -220,7 +220,45 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
         ![Alt text](image-9.png)
 
 
-## The monetary system
+## 6. The monetary system
+
+* bartering v.s. money
+
+* money
+
+    * medium of exchange, unit of account, store of value
+
+    * liquidity
+
+    * commodity/fiat money
+
+    * Monetary Base = Currency (M0) + Bank reserves
+
+    * M1, M2, M3
+
+* central bank
+
+    * bank of the bank
+
+    * conduct monetary policy
+
+    * 如何控制货币
+
+        * Reserve requirements 是商业银行必须保留的比例（一定比例的钱要交给 central bank 保管，否则要是把钱全借出去了银行很容易破产），调整这个比例就能调整货币
+
+        * open-market operations：买证券，让自己印的钱流入市场；卖证券，从市场收钱回来
+
+        * The discount rate 贴现率：中央银行向商业银行提供贷款，商业银行要还的利率。增加这个，money supply 减少。贴现率越大，商业银行给市场借钱越谨慎（成本越高），supply 减少。
+
+        * The deposit rate：商业银行的钱存在中央银行，中央银行要还的利息。增加这个，money supply 减少。因为这个越大，商业银行越想往中央银行存钱，给市场的 supply 就减少。
+
+* European Central Bank (ECB)
+
+    * price = the Main Refinancing Rate
+
+    * The discount rate = the Marginal Lending Rate
+
+* Money Multiplier = 1/Reserve rate
 
 * inflation/hyperinflation/deflation
 
@@ -233,9 +271,59 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
     ![Alt text](image-10.png)
 
 
-TODO：
+* classical dichotomy
 
-## International trade
+    * 实际变量（Real Variables）： 包括实际产出（实际国内生产总值，Real GDP）、实际工资、实际利率等，这些变量与实际经济活动相关。
+
+    * 名义变量（Nominal Variables）： 包括名义产出（名义国内生产总值，Nominal GDP）、名义工资、名义利率等，这些变量是以当前价格和货币单位度量的。
+
+    * monetary neutrality：货币不影响实际变量，它只影响名义变量。这个观点表明，在理论上，货币的数量变动不应该影响实际经济的决定性因素，如就业水平、生产水平等。
+
+* 货币数量论（The Quantity Theory of Money）是宏观经济学中的一种理论，它关注货币供应和总体价格水平之间的关系。这一理论的基本观点可以概括为：MV=PY
+
+    * M 代表货币供应（Money Supply）
+
+    * V 代表货币的速度（Velocity of Money），即货币在经济中的平均流通速度。
+
+    * P 代表物价水平（Price Level），即一般物品和服务的价格水平。
+
+    * Y 代表实际产出（Real Output），即国民经济的实际生产水平。 
+
+    * V 基本不会变
+
+    * money is (in the long-run) neutral，即 M 不影响 Y。所以 M 增加，V Y 不变，P 增加。
+
+* 通货膨胀税（The Inflation Tax）是指通货膨胀对货币持有者的实际财富产生的一种影响。虽然通常不是政府明确课征的税收，但通货膨胀的过程实际上可以被视为对货币持有者的一种隐性征税。
+
+* 记得前面说过 nominal interest rate = real interest rate + inflation rate
+
+    * The fisher effect 认为 (1 + nominal interest rate) = (1 + real interest rate)(1 + inflation rate)，区别不大
+
+    * inflation rate 上升，real interest rate 应该保持不变（因为这是由 loanable fund macket 决定的），所以 nominal interest rate 上升同等数量。
+
+* the costs of inflation
+
+    * Shoeleather costs（鞋底成本）是指由于通货膨胀而导致人们频繁进行货币的购买和持有，从而引起的一系列成本。这个术语来自于人们为了减少货币贬值而不断走动，好像在走动中磨损了鞋底一样。这些成本主要与人们试图避免持有过多货币而频繁进行银行存取、零售购物等活动有关。比如银行取钱手续费
+
+    * Menu costs（菜单成本）是指企业因为调整价格而产生的一系列成本，这种调整价格的过程就好像调整一份菜单一样。比如调整价格的实体店就会重新印刷和更新标签，带来成本等。
+
+    * Relative price variability：价格变了以后 allocation of resources 和 relative price 不是最优匹配，带来 Misallocation of Resources
+
+    * Inflation-Induced Tax Distortion 通货膨胀引起的税收扭曲是指由于通货膨胀对税收制度产生的一系列影响，导致税收体系在通货膨胀环境下对纳税人和经济产生不利影响的现象。比如导致纳税人支付超过其实际能力的税收。
+
+    * Confusion and Inconvenience: with rising prices, it is more difficult to compare real revenues, costs, and profits over time
+
+    * Arbitrary Redistribution of Wealth: in a way that has nothing to do with either merit or need，带来财富分布不合理
+
+* deflation 也是坏事
+
+    * 价格越来越低，那今天为什么要花钱呢？你不买我不买，明天还能跌两百。
+
+    * 不投资了，不花钱了，导致经济不增长，增加失业率。
+
+
+
+## 7. International trade
 
 * Welfare Economics 福利经济学的目标是研究经济政策和资源配置对整个社会福利的影响，以便提出关于如何最大化社会福利的建议。
 
@@ -305,13 +393,13 @@ TODO：
 
     ![Alt text](image-21.png)
     
-## Open-economy macroeconomics
+## 8. Open-economy macroeconomics
 
 * open/closed economy
 
 * NX = 0 is called trade balance
 
-* 净资本外流（Net Capital Outflow，NCO）是指一个国家在一定时期内对外资产和外负债的净流动。它反映了一个国家在全球经济中资本的流动方向，包括私人和政府部门的资本。简单来说就是向国外投资的钱数。
+* 净资本外流（Net Capital Outflow，NCO）是指一个国家在一定时期内对外资产和外负债的净流动。它反映了一个国家在全球经济中资本的流动方向，包括私人和政府部门的资本。简单来说就是国内向国外投资 - 国外向国内投资。
 
     * NCO > 0 时，表示资本净流出，即国内资金投资于国外资产（国内收到的国外资产 > 国外收到的国内资产）
 
@@ -335,7 +423,7 @@ TODO：
 
     * real exchange rate 比的是购买力（比如一碗面在中国卖 5 CNY，在瑞士卖 20 CHF，那 CHF:CNY = 20*8:5 = 32:1!!）
 
-    * 汇率决定第一理论：purchasing-power parity (PPP) theory：a good must sell for the same price in all locations。但显然有缺陷：
+    * 汇率决定第一理论：purchasing-power parity (PPP) theory：a good must sell for the same price in all locations，也就是说 real exchange rate 应该为 1。但显然有缺陷：
 
         * Many goods are not easily traded or shipped from one country to another
 
@@ -343,15 +431,15 @@ TODO：
 
 * 回顾之前的 「The Market for Loanable Funds 图」，我们可以通过 「NCO 与 real interest rate 的图」得到 「The Market for Foreign-Currency Exchange 图」。
 
-    * 对于 「The Market for Loanable Funds 图」 的平衡点利率 r1，我们在 「NCO 与 real interest rate 的图」 里找到 NCO，这个 NCO 就是 「The Market for Foreign-Currency Exchange 图」 的 Supply，TODO？
+    * 对于 「The Market for Loanable Funds 图」 的平衡点利率 r1，我们在 「NCO 与 real interest rate 的图」 里找到 NCO，这个 NCO 就是 「The Market for Foreign-Currency Exchange 图」 的 Supply。
 
     ![Alt text](image-22.png)
 
-    * 「NCO 与 real interest rate 的图」 如下。TODO？
+    * 「NCO 与 real interest rate 的图」 如下。国内利率越高，就越吸引国外的人投资国内（NCO越小），就越吸引国内的人投资国内而不是国外（NCO越小）
 
     ![Alt text](image-23.png)
 
-    * 「The Market for Foreign-Currency Exchange 图」 如下。TODO？
+    * 「The Market for Foreign-Currency Exchange 图」 如下。这个图也说明 NCO/supply 跟汇率没关系，它只跟国内利率有关。
 
     ![Alt text](image-24.png)
 
@@ -361,16 +449,16 @@ TODO：
 
     ![Alt text](image-25.png)
 
-    * import quota，只影响 demand。
+    * import quota，只影响 demand（为啥）
 
     ![Alt text](image-26.png)
 
-    * capital flight（资本外逃）指的是大量的金融资本从一个国家撤离，转移到其他国家寻求更安全或更有利可图的投资机会。国内 loanable funds 需求增加，TODO？
+    * capital flight（资本外逃）指的是大量的金融资本从一个国家撤离，转移到其他国家寻求更安全或更有利可图的投资机会。国内 loanable funds 需求增加
 
     ![Alt text](image-27.png)
 
 
-## Business cycles
+## 9. Business cycles
 
 * economic fluctuations
 
@@ -398,7 +486,7 @@ TODO：
 
     * Boom（繁荣），Bust（衰退），Upswing（上升），Downturn（下降）
 
-* stationary/nonstationary data
+* stationary（平均数稳定）/nonstationary （平均数不稳定）data
 
 * comovement
 
@@ -463,3 +551,187 @@ TODO：
         * 考虑 positive and negative technology shocks
 
         * 政府、中央银行不用干预，employment, labour productivity and real wages are procyclical TODO
+
+## 10. Keynesian Economics and IS-LM Analysis
+
+* planned/actual speding, saving or investment
+
+* Full employment is when those people who want to work at the going rate are able to find a job 不等于失业率为 0，因为还有些不想工作的也属于 labour force
+
+
+* 基本概念
+
+    * Full employment output 满就业产出是指一个经济体在充分利用所有生产要素（劳动力、资本等）的情况下能够实现的产出水平。在这个状态下，失业率最低，生产要素得到了充分利用。它表示在不引起通货膨胀的情况下，经济体能够实现的最高产出水平。
+
+    * 国民收入（National Income）是一个国家在一定时期内（通常是一年）内所有居民和企业创造的总收入。它包括工资、利润、利息和租金等各种形式的收入，这里就是指 GDP（收入侧计算出来的）。可以认为是 planned expenditure，也就是说这是计划的支出。
+
+    * 总支出（Total Expenditure）是在一定时期内，社会中所有最终产品和服务的购买总额，等于当前 C+G+I+NX，也是 GDP（花费侧计算出来的）。可以认为是 actual expenditure
+
+    * 在满就业产出水平，总支出等于国民收入。可以认为钱都花完了，这是最好的（不是说想当然的总支出越少，剩的钱越多越好，因为比如剩的钱都可以拿去投资，钱是有时间概念的，这个钱放在这什么都不做反而不是好事）
+
+    * output 产出，值与国民收入相等，所以就是 National Income，记为 Y。
+
+    * 支出就是需求，国民收入决定于总支出或者说总需求的水平
+
+
+* Keynesian cross
+
+    * 认为市场 planned == actual 时才是最好的，即市场出清（market clearing），national income == total expenditure，也就是当前是 full employment output
+
+    * E = C + I + G + (X-M)， （Total Expenditure）actual expenditure 是一个关于 （National Income）planned expenditure 的函数，计划开销越高，实际开销越高，所以斜率是正数。
+
+    * 通货紧缩缺口（Deflationary Gap）指的是实际国内生产总值（Real GDP）低于潜在国内生产总值（Potential GDP）的情况。潜在国内生产总值是在充分就业和资源充分利用的情况下，一个经济体能够实现的最高产出水平
+
+    ![Alt text](image-28.png)
+
+    * 通货膨胀缺口指的是实际国内生产总值（Real GDP）高于潜在国内生产总值（Potential GDP）的情况。潜在国内生产总值是在充分就业和资源充分利用的情况下，一个经济体能够实现的最高产出水平。这也不是好事，可能导致通货膨胀加剧、资源过度使用、产能紧张等问题。
+
+    ![Alt text](image-29.png)
+
+    * 自主支出（Autonomous Expenditure）指的是在国内生产总值（Gross Domestic Product，GDP）中不受个人或企业的收入水平变化影响的支出部分（就是上图与 Y 轴的交点）； induced expenditure 相反，指的是受收入水平影响的部分
+
+* The accelerator principle（加速原理）是宏观经济学中的一个概念，描述了投资与国内生产总值（GDP）变化之间的关系。该原理认为，对于产出的小幅变化，投资的变化可能会更显著。具体而言，当国内生产总值（GDP）增长或下降时，对投资的影响会按照一个加速的比例进行变化。Multiplier effect（乘数效应）
+
+* 边际消费倾向（Marginal Propensity to Consume，MPC）：如果一个家庭额外获得了100美元的收入，并决定将其中的80美元用于购买商品和服务，那么边际消费倾向就是 0.8，边际储蓄倾向 MPS 是 0.2
+
+    * the Spending Multiplier 支出乘数衡量了支出变化对整体经济的影响有多大。较高的乘数表示更大的影响。1/MPS 或 1/(1-MPC)，MPS 越小代表人们越愿意消费，支出乘数就越大
+
+* national income（即 output）ΔY = 1/MPW * ΔE
+
+    * MPW = MPT + MPM + MPS，1/MPW 是乘数
+
+    * MPT: the marginal propensity to taxation
+
+    * MPM（MPI）: the marginal propensity to import
+
+    * MPS: the marginal propensity to save
+
+    * 反映的是增大开销之后再次达到平衡点，国民收入会相应增大的程度。
+
+    ![Alt text](image-31.png)
+
+* IS&LM curve
+
+    * IS 曲线刻画了 goods market 商品市场的平衡点，从keynesian-cross 图或 loanable-market 图得到（loanable-market 的平衡点就是商品市场的平衡点）
+
+    * LM 曲线刻画了 money market 货币市场的平衡点，从 money market 图得到（money market 的平衡点就是货币市场的平衡点）
+
+    * 这两个市场由 利率 联系在一起
+
+* Liquidity trap
+
+    * LM 曲线前半段变成水平
+
+
+## 11. Aggregate demand and aggregate supply
+
+* Aggregate Demand 曲线
+
+    * 曲线斜率是负的的解释
+
+        * The Wealth Effect
+
+        * The Interest Rate Effect
+
+        * The Exchange-Rate Effect
+
+    * 曲线受什么影响
+
+        * (autonomous) Consumption
+
+        * (autonomous) Investment
+
+        * Government Purchases
+
+        * (autonomous) Net Exports
+
+        * Money Supply
+
+* Aggregate Supply 曲线
+
+    * long run AS/short run AS
+
+    * 曲线斜率是正的的解释
+
+        * The Sticky-Wage Theory
+
+        * The Sticky-Price Theory
+
+        * The Misperceptions Theory
+
+    * 曲线受什么影响
+
+        * Labour (e.g. net immigration)
+
+        * Capital
+
+        * Natural Resources
+
+        * Technological Knowledge （i.e. inventions of new technology）
+
+* long-run 平衡：natural rate of output
+
+
+## 12. Monetary and Fiscal Policy
+
+* Monetary 货币政策 and Fiscal 财经政策 policy 用来稳固经济，中和 aggrate demand 改变带来的影响
+
+* Monetary policy
+
+    * Central bank 通过货币政策移动 aggregate demand curve
+
+    * CB（通过印钱并以证券形式借出去使其流入市场等）提高 money supply，利率就会减少，goods and services 需求量就会增加，所以 aggregate demand 就会右移。
+
+    * CB （通过购买企业、银行证券等方式获得现金）减少 money supply，利率就会增加，goods and services 需求量就会减少，aggregate demand 就会左移。
+
+    ![Alt text](image-30.png)
+
+* Fiscal policy
+
+    * 提高政府开销或减少 tax，demand 增加，aggregate demand 右移
+
+    * 减少政府开销或增加 tax，demand 减少，aggregate demand 左移
+
+    * fiscal change 程度 -> aggregate demand shift 程度
+
+        * The multiplier effect tends to amplify
+
+        * The crowding-out effect tends to dampen
+
+
+## 13. Philips Curve / Supply-side policies
+
+* THE PHILLIPS CURVE
+
+    * 菲利普斯曲线表达了短期内通货膨胀和失业之间的负相关关系，即在经济中，通常存在一个权衡点，选择较低的失业率可能伴随较高的通货膨胀率，反之亦然。
+
+        * 决策者提高 AD 来减少失业率，但会导致 inflation
+
+        ![Alt text](image-32.png)
+
+        * 决策者降低 AD 来减少 inflation，但会导致失业率上升
+
+    * The Long-Run Phillips Curve
+
+    ![Alt text](image-33.png)
+
+
+TODO
+
+## Notes
+
+![](./note1.jpg)
+
+![](./note2.jpg)
+
+![](./note3.jpg)
+
+![](./note4.jpg)
+
+![](./note5.jpg)
+
+![](./note6.jpg)
+
+![](./note7.jpg)
+
+![](./note8.jpg)
