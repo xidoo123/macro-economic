@@ -713,10 +713,60 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * The Long-Run Phillips Curve
 
-    ![Alt text](image-33.png)
+    ![Alt text](image-34.png)
+
+    * 货币政策只是短期有效，长期无效，所以很多国家中央银行与政府独立（比如英国、欧洲、美国，他们只操心通货膨胀率别太高就行，不管经济如何。但中国 CB 还是一个政府部门）
+
+    ![Alt text](image-35.png)
+
+    * supply sock：比如自然灾害、石油资源耗尽导致 AS 减少
+
+    ![Alt text](image-36.png)
+
+inflation 的原因
+
+* demand-pull inflation，由 demand shock 导致
+
+* cost-push inflation，由 supply shock 导致
+
+* The Sacrifice Ratio：为了降低 inflation，就得减少 demand，output 就会减少。比如为了降低 inflation 10%，output 减少了 30%，所以 ratio 就是 3
+
+* adaptive/rational expectations：对于 inflation rate 的期望建立在当前观察上，还是纯理性、分析所有现在、未来的条件上。
+
+* production bottleneck：AS 不变，AD 不停增加。到最后增加相同的 AD，Y 增加的越来越少，price 涨的越来越多，不好。
+
+![Alt text](image-37.png)
 
 
-TODO
+* sustained economic growth
+
+    * 前面那些都是增加 AD，这个带来不了经济持续性增长，增加 AS 才行（比如一个国家的长期经济增长，肯定不是货币政策导致的，要让国家经济增长，可能得提高科技、改善社会结构等）
+
+    * AS 增加，即 supply-side policy
+
+        * market-orientated policy 市场导向的
+
+            * reform tax and welfare policy
+
+                * The Laffer curve：税不是越高税收就越高，太高可能企业死完了也没有税收了
+
+                ![Alt text](image-38.png)
+
+            * flexible labour markets
+
+            * reduce government spending
+
+            * privatization and deregulation
+
+        * interventionist policy 干扰主义的
+
+            * Infrastructure Investment
+
+            * Investment in Education and Training
+
+            * Research and Development
+
+            * Regional or Industrial Policies, Designed to encourage investment and the regional multiplier
 
 ## Notes
 
