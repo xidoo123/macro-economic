@@ -6,6 +6,8 @@ DISCLAIMER：以下所有内容仅供参考
 
 SIP 三学分水课，但后半段课程的概念感觉还是比较难懂的。。考前整整学了五天（进度可以看 commit 记录），最后觉得考得很难，估分 4.5。最后的最后 curve 到 5.5，还算老师有点良心。。
 
+感谢 gpt3.5 与某五旬老人的鼎力相助
+
 ## 1. Introduction
 
 * 10 principles of Economics
@@ -135,22 +137,22 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 平衡点：I = D，这样投资的全被衰减掉了，等于没有投资，没有投资就不会产生更多的 capital 所以 capital 就不变了，达到稳定。steady state, long-run state.  
 
-    ![Alt text](image.png)
+    ![Alt text](./pics/image.png)
 
     * 增加 saving rate，就是说增加投资，I->I2
 
-    ![Alt text](image-1.png)
+    ![Alt text](./pics/image-1.png)
 
     * technological progress，增加 Y
 
-    ![Alt text](image-2.png)    
+    ![Alt text](./pics/image-2.png)    
 
 
 * In the long run, the higher saving rate leads to a higher level of productivity and income, but not to higher growth in these areas -> catch-up effect (你不是买更多生产资料越多就能发展越快，它虽然确实在发展，但发展速度反而是刚入门的人快)
 
 * Endogenous growth theory：只要涨就一直涨
 
-    ![Alt text](image-3.png)
+    ![Alt text](./pics/image-3.png)
 
 ## 4. unemployment and the labour market
 
@@ -174,7 +176,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * wage 增加，人就更想打工，所以 supply 曲线的 labour quantity 就增加
 
-    ![Alt text](image-4.png)
+    ![Alt text](./pics/image-4.png)
 
 * (摩擦的，表示短期浮动)Frictional unemployment
 
@@ -184,7 +186,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * minimum wage laws
 
-    ![Alt text](image-5.png)
+    ![Alt text](./pics/image-5.png)
 
     * unions，好坏没有 consensus
 
@@ -213,21 +215,21 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 利息越多，人就想借别人更多钱，所以 supply 曲线的 funds 就越多
 
-    ![Alt text](image-6.png)
+    ![Alt text](./pics/image-6.png)
 
     * government policy
 
         * tax 对利息的税收增加，导致人不想存银行了（saving 减少），导致银行 loanable funds 的 supply 减少；反之对利息得到 tax 减少，loanable funds 的 supply 就会增加
 
-        ![Alt text](image-7.png)
+        ![Alt text](./pics/image-7.png)
 
         * investment tax credit (投资税收抵免)是一种税收政策，通常由政府提供，以鼓励企业进行投资和资本支出。该政策的目的是通过减少企业的税负来促进经济增长，激励企业增加投资，购置新设备或进行其他资本性支出。也就是说投资借的钱要支付的利息变少了，所以更多人想借钱投资了，loanable funds 的 demand 增加。
 
-        ![Alt text](image-8.png)
+        ![Alt text](./pics/image-8.png)
 
         * Government Budget Deficit 国家缺钱了国家也得找 bank 借钱（放证券 bank 去买），导致 bank 能提供的 loanable funds 减少，即 supply 减少。
 
-        ![Alt text](image-9.png)
+        ![Alt text](./pics/image-9.png)
 
 
 ## 6. The monetary system
@@ -282,7 +284,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * money demand：value of money 增加，人们对 money 就不需要那么多 quantity 就可以买到同样的东西了，所以 demand 曲线 quantity of money 减少
 
-    ![Alt text](image-10.png)
+    ![Alt text](./pics/image-10.png)
 
 
 * classical dichotomy
@@ -349,7 +351,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * Pareto efficient 一种资源配置被认为是帕累托有效的，如果没有任何人能够在不损害其他人的情况下变得更好。换句话说分配到极限了。
 
-    ![Alt text](image-11.png)
+    ![Alt text](./pics/image-11.png)
 
 * Free market
 
@@ -365,15 +367,15 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 当 world price > 国内稳定点 price，代表这个东西国内便宜，国外就想从国内买，所以产生 export，这样 total surplus 会增加 D，是好事。（consumer 小亏 producer 赚麻了）
 
-    ![Alt text](image-12.png)
+    ![Alt text](./pics/image-12.png)
 
-    ![Alt text](image-13.png)
+    ![Alt text](./pics/image-13.png)
 
     * 当 world price < 国内稳定点 price，代表这个东西国外便宜，国内就想从国外买，所以产生 import，这样 total surplus 会增加 D，也是好事。（consumer 赚麻了 producer 小亏）
 
-    ![Alt text](image-14.png)
+    ![Alt text](./pics/image-14.png)
 
-    ![Alt text](image-15.png)
+    ![Alt text](./pics/image-15.png)
 
     * 国际贸易不光进出口都能增加 total surplus，它还有这些好处
 
@@ -391,21 +393,21 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * Tariff 关税：国内 import 的商品会收更高的税，这样外国人自然要提高这个商品的价格。这样会带来 deadweight loss D 和 F，total surplus 变少了，是坏事。（E 是 tariff 带来的政府收入）
 
-    ![Alt text](image-16.png)
+    ![Alt text](./pics/image-16.png)
 
-    ![Alt text](image-17.png)
+    ![Alt text](./pics/image-17.png)
 
     * import quota：国内 import 的商品会有一定的限额（防止无限制 import）。有了限额之后，supply 分为两部分：国内的 supply 和 import 的 supply。当国内价格小于 world price 时没有 import supply，因为外国人觉得出口到其他地方更赚钱。当国内价格等于 world prive 时开始 import，这个 import supply 被 quota 限制。这样会带来 deadweight loss D 和 F，total surplus 变少了，是坏事。（deadloss 应该是 E''+F..?）
 
-    ![Alt text](image-18.png)
+    ![Alt text](./pics/image-18.png)
 
-    ![Alt text](image-19.png)
+    ![Alt text](./pics/image-19.png)
 
     * domestic producer subsidy：给 producer 钱鼓励生产，所以 supply 增加。这对于 producer 来说，就相当于东西的价格上升了 per unit subsidy 这么多，所以新的 producer surplus 为 G+(E-F)，这样会带来 deadloss F。（E 是政府 subsidy 带来的开销，为啥？）
 
-    ![Alt text](image-20.png) 
+    ![Alt text](./pics/image-20.png) 
 
-    ![Alt text](image-21.png)
+    ![Alt text](./pics/image-21.png)
     
 ## 8. Open-economy macroeconomics
 
@@ -447,29 +449,29 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 对于 「The Market for Loanable Funds 图」 的平衡点利率 r1，我们在 「NCO 与 real interest rate 的图」 里找到 NCO，这个 NCO 就是 「The Market for Foreign-Currency Exchange 图」 的 Supply。比如（a）这个图是中国国内市场。
 
-    ![Alt text](image-22.png)
+    ![Alt text](./pics/image-22.png)
 
     * 「NCO 与 real interest rate 的图」 如下。国内利率越高，就越吸引国外的人投资国内（NCO越小），就越吸引国内的人投资国内而不是国外（NCO越小）
 
-    ![Alt text](image-23.png)
+    ![Alt text](./pics/image-23.png)
 
     * 「The Market for Foreign-Currency Exchange 图」 如下。外汇市场中，横坐标是人民币数量，需求是对人民币的需求，纵坐标是人民币对于外币的汇率（纵坐标越高，人民币越值钱）。这个图也说明 NCO/supply 跟汇率没关系，它只跟国内利率有关。
 
-    ![Alt text](image-24.png)
+    ![Alt text](./pics/image-24.png)
 
 * How policies and events affect an Open economy
 
     * Government budget deficits，前面分析过如果政府缺钱了，国内 loanable funds supply 会减少。
 
-    ![Alt text](image-25.png)
+    ![Alt text](./pics/image-25.png)
 
     * import quota，只影响 demand（进口有了限额，效果相当于出口增加，出口增加人民币的需求就会增加，因为出口要把人民币换成国外的货币）
 
-    ![Alt text](image-26.png)
+    ![Alt text](./pics/image-26.png)
 
     * capital flight（资本外逃）指的是大量的金融资本从一个国家撤离，转移到其他国家寻求更安全或更有利可图的投资机会。资本外逃直接导致国内 NCO 增加（外国对于国内的投资骤减），间接导致国内 loanable funds 需求增加，外汇市场 supply 增加。（注意这个图说的是资本外逃发生国，不是说中国了）
 
-    ![Alt text](image-27.png)
+    ![Alt text](./pics/image-27.png)
 
 
 ## 9. Business cycles
@@ -598,11 +600,11 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 通货紧缩缺口（Deflationary Gap）指的是实际国内生产总值（Real GDP）低于潜在国内生产总值（Potential GDP）的情况。潜在国内生产总值是在充分就业和资源充分利用的情况下，一个经济体能够实现的最高产出水平
 
-    ![Alt text](image-28.png)
+    ![Alt text](./pics/image-28.png)
 
     * 通货膨胀缺口指的是实际国内生产总值（Real GDP）高于潜在国内生产总值（Potential GDP）的情况。潜在国内生产总值是在充分就业和资源充分利用的情况下，一个经济体能够实现的最高产出水平。这也不是好事，可能导致通货膨胀加剧、资源过度使用、产能紧张等问题。
 
-    ![Alt text](image-29.png)
+    ![Alt text](./pics/image-29.png)
 
     * 自主支出（Autonomous Expenditure）指的是在国内生产总值（Gross Domestic Product，GDP）中不受个人或企业的收入水平变化影响的支出部分（就是上图与 Y 轴的交点）； induced expenditure 相反，指的是受收入水平影响的部分
 
@@ -624,7 +626,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * 反映的是增大开销之后再次达到平衡点，国民收入会相应增大的程度。
 
-    ![Alt text](image-31.png)
+    ![Alt text](./pics/image-31.png)
 
 * IS&LM curve
 
@@ -704,7 +706,7 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
     * CB （通过购买企业、银行证券等方式获得现金）减少 money supply，利率就会增加，goods and services 需求量就会减少，aggregate demand 就会左移。
 
-    ![Alt text](image-30.png)
+    ![Alt text](./pics/image-30.png)
 
 * Fiscal policy
 
@@ -727,21 +729,21 @@ PPF 通常是一个凹向原点的曲线，它反映了资源的稀缺性和机�
 
         * 决策者提高 AD 来减少失业率，但会导致 inflation
 
-        ![Alt text](image-32.png)
+        ![Alt text](./pics/image-32.png)
 
         * 决策者降低 AD 来减少 inflation，但会导致失业率上升
 
     * The Long-Run Phillips Curve
 
-    ![Alt text](image-34.png)
+    ![Alt text](./pics/image-34.png)
 
     * 货币政策只是短期有效，长期无效，所以很多国家中央银行与政府独立（比如英国、欧洲、美国，他们只操心通货膨胀率别太高就行，不管经济如何。但中国 CB 还是一个政府部门）
 
-    ![Alt text](image-35.png)
+    ![Alt text](./pics/image-35.png)
 
     * supply sock：比如自然灾害、石油资源耗尽导致 AS 减少
 
-    ![Alt text](image-36.png)
+    ![Alt text](./pics/image-36.png)
 
 inflation 的原因
 
@@ -755,7 +757,7 @@ inflation 的原因
 
 * production bottleneck：AS 不变，AD 不停增加。到最后增加相同的 AD，Y 增加的越来越少，price 涨的越来越多，不好。
 
-![Alt text](image-37.png)
+![Alt text](./pics/image-37.png)
 
 
 * sustained economic growth
@@ -770,7 +772,7 @@ inflation 的原因
 
                 * The Laffer curve：税不是越高税收就越高，太高可能企业死完了也没有税收了
 
-                ![Alt text](image-38.png)
+                ![Alt text](./pics/image-38.png)
 
             * flexible labour markets
 
@@ -790,18 +792,18 @@ inflation 的原因
 
 ## Notes
 
-![](./note1.jpg)
+![](./pics/note1.jpg)
 
-![](./note2.jpg)
+![](./pics/note2.jpg)
 
-![](./note3.jpg)
+![](./pics/note3.jpg)
 
-![](./note4.jpg)
+![](./pics/note4.jpg)
 
-![](./note5.jpg)
+![](./pics/note5.jpg)
 
-![](./note6.jpg)
+![](./pics/note6.jpg)
 
-![](./note7.jpg)
+![](./pics/note7.jpg)
 
-![](./note8.jpg)
+![](./pics/note8.jpg)
